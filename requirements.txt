@@ -1,0 +1,8 @@
+langchain
+openai
+chainlit
+pandas
+tabulate
+pypdf
+chromadb
+tiktoken
